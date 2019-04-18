@@ -12,9 +12,10 @@ https://code.visualstudio.com/
 ## Pro's and Cons:  
 |  Positives:|   Negatives:  |
 |:----------------|------------------:|
-|* widely used, so alot of experienced users | * slow launch time, compared to some other IDE's|
-|* made for Windows, Mac and Linux |* seems to be nothing more than an Atom clone |
-|* it has useful hints and auto-completion | * uses alot of memory (allegedly :information_desk_person:) |  
+|1 widely used, so alot of experienced users | * slow launch time, compared to some other IDE's|
+|2 made for Windows, Mac and Linux |* seems to be nothing more than an Atom clone |
+|3 it has useful hints and auto-completion | * uses alot of memory 
+                                                  * (allegedly :information_desk_person:) |  
  
   
  ## Conclussion:  
