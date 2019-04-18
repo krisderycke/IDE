@@ -1,5 +1,4 @@
-# IDE       
-![ide](https://wakatime.com/static/img/editor-icons/vs-code-128.png)
+# IDE    ![ide](https://wakatime.com/static/img/editor-icons/vs-code-128.png)
 
 
 ## Choosing one:
