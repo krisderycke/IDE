@@ -8,14 +8,12 @@ https://code.visualstudio.com/
 https://code.visualstudio.com/download
   
 ## Pro's and Cons:  
-#### Positives:  
-* widely used, so alot of experienced users
-* made for Windows, Mac and Linux
-* it has useful hints and auto-completion  
-### Negatives:  
-* slow launch time, compared to some other IDE's  
-* seems to be nothing more than an Atom clone (which might also be useful if you know Atom, IMO)
-* uses alot of memory (allegedly)  
+|  Positives:|   Negatives:  |
+|:----------------|------------------:|
+|* widely used, so alot of experienced users | * slow launch time, compared to some other IDE's|
+|* made for Windows, Mac and Linux |* seems to be nothing more than an Atom clone |
+|* it has useful hints and auto-completion | * uses alot of memory (allegedly) |  
+ 
   
  ## Conclussion:
   I will use this IDE due to the fact that many developers also use this platform and seems to be very trendy compared to others.
