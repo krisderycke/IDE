@@ -4,7 +4,8 @@ After looking into different IDE's, the IDE of my choice will be Visual Studio C
 This is particularly handy when you have issues and are looking for solutions.  
 It also seems like a good program to use for front-end devs and has a built-in GIT control.  
 Further more, i have no idea which one is better than the other.    
-https://code.visualstudio.com/ 
+https://code.visualstudio.com/   
+https://code.visualstudio.com/download
   
 ## Pro's and Cons:  
 #### Positives:  
