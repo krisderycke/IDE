@@ -26,6 +26,6 @@ https://code.visualstudio.com/
  - [ ] play ping-pong  
      
   
-  I will use this IDE due to the fact that many developers also use this platform and seems to be very `trendy` compared to others.
+  I will use this IDE due to the fact that many developers also use this platform and seems to be `very trendy` compared to others.
   As you can see in the following **link**: https://trends.google.nl/trends/explore?geo=NL&q=%2Fm%2F0134xwrk,%2Fm%2F0_x5x3g,%2Fm%2F07zh7,%2Fm%2F0c00n4h
   
