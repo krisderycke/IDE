@@ -10,7 +10,7 @@
 >It also seems like a good program to use for front-end devs and has a built-in GIT control.  
 >Further more, i have no idea which one is better than the other.    
 https://code.visualstudio.com/   
-https://code.visualstudio.com/download
+[Download IDE](https://code.visualstudio.com/download)
   
 ## Pro's and Cons:  
 |  Positives:|   Negatives:  |
