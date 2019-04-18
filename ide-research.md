@@ -1,7 +1,5 @@
 # IDE       
-<img src="pic.png"
-     alt="ide pic"
-     />
+![ide](https://wakatime.com/static/img/editor-icons/vs-code-128.png)
 
 
 ## Choosing one:
