@@ -1,4 +1,6 @@
-# IDE ![ide](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
+# IDE   ![ide](https://code.visualstudio.com/opengraphimg/opengraph-home.png)  
+
+
 ## Choosing one:
 After looking into different IDE's, the IDE of my choice will be *Visual Studio Code because* on Google Trends it seems like the most popular and worldwide used program.  
 This is particularly handy when you have issues and are looking for solutions.  
