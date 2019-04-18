@@ -12,14 +12,16 @@ https://code.visualstudio.com/
 ## Pro's and Cons:  
 |  Positives:|   Negatives:  |
 |:----------------|------------------:|
-|1 widely used, so alot of experienced users | * slow launch time, compared to some other IDE's|
-|2 made for Windows, Mac and Linux |* seems to be nothing more than an Atom clone |
-|3 it has useful hints and auto-completion | * uses alot of memory (allegedly :information_desk_person:) |  
+|1. widely used, so alot of experienced users | * slow launch time, compared to some other IDE's|
+|2. made for Windows, Mac and Linux |* seems to be nothing more than an Atom clone |
+|3. it has useful hints and auto-completion | * uses alot of memory (allegedly :information_desk_person:) |  
  
   
  ## Conclussion:  
  - [x] download IDE   
- - [ ] play ping-pong  
+ - [ ] * play ping-pong  
+          * watch GoT    
+  
   I will use this IDE due to the fact that many developers also use this platform and seems to be very `trendy` compared to others.
   As you can see in the following **link**: https://trends.google.nl/trends/explore?geo=NL&q=%2Fm%2F0134xwrk,%2Fm%2F0_x5x3g,%2Fm%2F07zh7,%2Fm%2F0c00n4h
   
