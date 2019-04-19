@@ -2,7 +2,7 @@
 
 
 ## Choosing one:
-     After looking into different IDE's, the IDE of my choice will be *Visual Studio Code* because on Google Trends it seems like the most popular and worldwide used program.   
+     After looking into different IDE's, the IDE of my choice will be Visual Studio Code because on Google Trends it seems like the most popular and worldwide used program.   
 ### Why?
 >* This is particularly handy when you have issues and are looking for solutions.  
 >* It also seems like a good program to use for front-end dev's.
@@ -15,7 +15,7 @@ https://code.visualstudio.com/
 |  Positives:|   Negatives:  |
 |:----------------|------------------:|
 |1. widely used, so alot of experienced users | * slow launch time, compared to some other IDE's|
-|2. made for Windows, Mac and Linux |* seems to be nothing more than an Atom clone |
+|2. made for *Windows, Mac and Linux* |* seems to be nothing more than an Atom clone |
 |3. it has useful hints and auto-completion | * uses alot of memory (allegedly :information_desk_person:) |  
  
   
