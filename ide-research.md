@@ -34,7 +34,7 @@ https://code.visualstudio.com/
  - [x] [Download IDE](https://code.visualstudio.com/download)  
  - [ ] watch GoT
  - [x] look for pro's and cons     
- - [ ] play ping-pong  
+ - [ ] play ping-pong 
      
   
   I will use this IDE due to the fact that many developers also use this platform and seems to be `very trendy` compared to others.
