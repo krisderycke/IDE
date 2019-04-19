@@ -2,7 +2,18 @@
 
 
 ## Choosing one:
-     After looking into different IDE's, the IDE of my choice will be Visual Studio Code because on Google Trends it seems like the most popular and worldwide used program.   
+     After looking into different IDE's, the IDE of my choice will be Visual Studio Code because on Google Trends it seems like the most popular and worldwide used program.
+     
+## What?
+  Visual Studio Code can be used to write codes in different languages, such as HTML, JavaScript, CSS, Ruby, etc. 
+  Here is an example of a Ruby code:
+     
+ ```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 ### Why?
 >* This is particularly handy when you have issues and are looking for solutions.  
 >* It also seems like a good program to use for front-end dev's.
